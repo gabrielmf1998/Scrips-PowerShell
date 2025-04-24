@@ -1,0 +1,5 @@
+Todos os script informados pode ser convertidos em .exe sem nenhuma suspeita de virus ou utilização de certificados.
+
+Todos os script estão em conformidade com Powershell 4.0, ou seja, irá rodar em quase todas as versões do Windows, com exceção das versões Server 2012 e Windows 7.
+
+Script foi cirado por mim acerca de uma automatização massiva de instalação e configuração de programas da empresa em máquinas Windows Server.
